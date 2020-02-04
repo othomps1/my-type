@@ -1,0 +1,1 @@
+Word typing game created using JavaScript
