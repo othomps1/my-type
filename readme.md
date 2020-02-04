@@ -1,1 +1,1 @@
-Word typing game created using JavaScript
+Word typing game created using HTML, CSS, and JavaScript
